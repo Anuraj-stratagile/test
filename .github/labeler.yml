@@ -1,2 +1,5 @@
 - name: Labeler
   uses: actions/labeler@v4.0.2
+  
+  label1:
+- /*
