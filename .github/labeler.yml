@@ -1,5 +1,7 @@
 - name: Labeler
   uses: actions/labeler@v4.0.2
   
-  attom:
-  -attom/**/*
+# Add 'label1' to any changes within 'example' folder or any subfolders
+attom:
+- attom/**/*
+
