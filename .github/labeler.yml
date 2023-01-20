@@ -1,5 +1,5 @@
 - name: Labeler
   uses: actions/labeler@v4.0.2
   
-  'test-label':
-- '**/*.md'
+  attom:
+  -attom/**/*
